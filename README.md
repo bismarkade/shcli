@@ -69,6 +69,10 @@ pip install -r requirements.txt
 ```bash
 pip install -e .
 ```
+### 5. [Optinal] Add Script to path
+
+
+
 
 ---
 
