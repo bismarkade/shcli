@@ -13,8 +13,7 @@ A CLI tool to query the Sentinel Hub Catalog and Process APIs for satellite imag
 5. [Assumptions](#assumptions)
 6. [Testing](#testing)
 7. [Examples](#examples)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [NextStep](#NextSteps)
 
 ---
 
