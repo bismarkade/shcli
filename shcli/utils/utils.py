@@ -5,7 +5,7 @@ from typing import Dict, List, Optional
 import json
 import logging
 
-from auth.login_model import LoginModel
+from shcli.auth.login_model import LoginModel
 
 
 

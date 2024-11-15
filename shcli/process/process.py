@@ -2,7 +2,7 @@ import requests
 from typing import Any, Dict
 import logging
 
-from utils.file_utils import save_image_to_file
+from shcli.utils.file_utils import save_image_to_file
 
 
 logger = logging.getLogger(__name__)

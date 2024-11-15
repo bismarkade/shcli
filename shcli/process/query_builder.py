@@ -1,7 +1,7 @@
 from typing import Dict, Optional
 import logging
 
-from utils.utils import validate_bbox
+from shcli.utils.utils import validate_bbox
 
 
 

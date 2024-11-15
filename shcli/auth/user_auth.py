@@ -1,7 +1,7 @@
 from oauthlib.oauth2 import BackendApplicationClient
 from requests_oauthlib import OAuth2Session
 
-from auth.login_model import LoginModel
+from shcli.auth.login_model import LoginModel
 
 
 
