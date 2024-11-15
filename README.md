@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ```bash
 pip install -e .
 ```
-### 5. [Optinal] Add Script to path
+### 5. [Optional] Add Script to path
 
 
 
@@ -106,7 +106,7 @@ eg python shcli/cli.py <COMMANDS> from the shcli as shown in the example images
 
 ![Description of Image](example/showexample.png)
 
-### **Example for Retieving images over Salzburg Airport Area**
+### **Example for Retrieving images over Salzburg Airport Area**
 
 #### **Authenticate**
 
