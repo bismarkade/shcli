@@ -5,6 +5,7 @@ import logging
 from utils.utils import validate_bbox
 
 
+
 logger = logging.getLogger(__name__) 
 
 def catalog_request(

@@ -1,15 +1,16 @@
 from typing import List, Optional
 import click
 import json
+
+import logging
+
 from auth.login_model import LoginModel
 from auth.user_auth import LoginAuth
 from catalog.catalog import catalog_request, extract_statistics
 from process.process import process_request
 from process.query_builder import create_request_data
-
-import logging
-
 from utils.utils import read_login_credentials, save_login_credentials, validate_bbox
+
 
 
 logger = logging.getLogger(__name__)

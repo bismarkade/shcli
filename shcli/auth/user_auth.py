@@ -4,6 +4,7 @@ from requests_oauthlib import OAuth2Session
 from auth.login_model import LoginModel
 
 
+
 class LoginAuth:
 
     _TOKEN_URL = "https://services.sentinel-hub.com/auth/realms/main/protocol/openid-connect/token"

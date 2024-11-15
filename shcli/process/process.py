@@ -4,6 +4,7 @@ import logging
 
 from utils.file_utils import save_image_to_file
 
+
 logger = logging.getLogger(__name__)
 
 def process_request(
